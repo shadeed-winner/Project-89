@@ -5,5 +5,5 @@ function addUser() {
     localStorage.setItem("player1_name", player1_name);
     localStorage.setItem("player2_name", player1_name);
 
-    window.location = "quiz_game_page.html";
+    window.location = "https://shadeed-winner.github.io/Project-90/";
 }
